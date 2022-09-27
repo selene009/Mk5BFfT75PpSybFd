@@ -49,6 +49,9 @@ Output (desired target):
 
 y - has the client subscribed to a term deposit? (binary)
 
+#### Goal
+Predict if the customer will subscribe (yes/no) to a term deposit (variable y)
+
 ### Data Science Technical 
 * Covert categorical data to numerical data
 * Feature selection
